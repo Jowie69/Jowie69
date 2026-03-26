@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning *********
 
-- 👨‍💻 All of my projects are available at [https://j-flowservices.netlify.app](https://j-flowservices.netlify.app)
+- 👨‍💻 All of my projects are available at [https://flowres-automation.vercel.app/](https://flowres-automation.vercel.app/)
 
 - 📫 How to reach me **jowieflores032002@gmail.com**
 
-- 📄 Know about my experiences [https://j-flowservices.netlify.app](https://j-flowservices.netlify.app)
+- 📄 Know about my experiences [https://freelancer-jowie.vercel.app/](https://freelancer-jowie.vercel.app/)
 
 - ⚡ Fun fact **I am constantly learning new skills.**
 
