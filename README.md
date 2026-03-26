@@ -28,11 +28,11 @@
 ```typescript
 const jowie = {
   name:       "Jowie Flores",
-  location:   "Naga, Bicol Region 🇵🇭",
+  location:   "Daet, Bicol Region 🇵🇭",
   role:       "Full-Stack Web Developer",
   currentlyBuilding: "J-Flow Services — automation & productivity tools",
   learning:   "Always expanding the stack...",
-  contact:    "jowieflores032002@gmail.com",
+  contact:    "jowieflores.freelancer@gmail.com",
   funFact:    "⚡ I am constantly learning new skills.",
   portfolio:  "https://flowres-automation.vercel.app/",
   experience: "https://freelancer-jowie.vercel.app/",
@@ -121,8 +121,8 @@ const jowie = {
 
 ## 🌐 Connect With Me
 
-<a href="mailto:jowieflores032002@gmail.com">
-  <img src="https://img.shields.io/badge/Email-020b18?style=for-the-badge&logo=gmail&logoColor=00c6ff&label=jowieflores032002" alt="Email"/>
+<a href="mailto:jowieflores.freelancer@gmail.com">
+  <img src="https://img.shields.io/badge/Email-020b18?style=for-the-badge&logo=gmail&logoColor=00c6ff&label=jowieflores.freelancer" alt="Email"/>
 </a>
 &nbsp;
 <a href="https://freelancer-jowie.vercel.app/" target="_blank">
